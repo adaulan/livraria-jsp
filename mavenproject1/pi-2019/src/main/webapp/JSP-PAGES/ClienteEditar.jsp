@@ -21,7 +21,7 @@
     <script src="https://igorescobar.github.io/jQuery-Mask-Plugin/js/jquery.mask.min.js"></script>
     
 </head>
-
+<%-- Edicao de Clientes --%>
 <body id="body-changes" class="text-center">
     <form id="FadeForm" class="form-type" method="post" action="${pageContext.request.contextPath}/ClienteEditar" >
         <div class="row justify-content-center">
